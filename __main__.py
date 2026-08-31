@@ -1,3 +1,5 @@
+import keep_alive
+keep_alive.start()
 from src import main
 
 
